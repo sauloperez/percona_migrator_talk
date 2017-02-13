@@ -5,33 +5,32 @@
 
 ---
 
-# Pau Pérez
-@prez\_pau
+**@prez\_pau**
 
 Backend developer at Redbooth
 _and trying to be better at relational databases_
 
 ---
 
-# What’s
-# Percona Migrator?
+# **What’s**
+# [fit]**Percona Migrator?**
 
 ---
 
-# :heart: **to**
-# **the _users_**
+# :heart: to
+# the _users_
 
 ——-
 
-# [fit] _Developers_
+# **_to developers_**
 
 ---
 
-# **migrations for ![](rails-logo.png) apps but with _steroids_**
+# migrations for ![](rails-logo.png) apps but with _steroids_
 
 ---
 
-# **respectful with the database**
+# respectful with the database
 
 
 ---
@@ -44,24 +43,24 @@ _and trying to be better at relational databases_
 
 ---
 
-# [fit] _Customers_
+# **_to customers_**
 
 ---
 
-# **Does not affect the database’s functioning**
+# Does not affect the database’s functioning
 
 ---
 
-# **~~downtime~~**
+# ~~downtime~~
 
 ---
 
-# How does it do that?
+# [fit]**How does it do that?**
 
 ---
 
-# [fit] **from the folks at Percona**
-# [fit] `pt-online-schema-change`
+# **from the folks at Percona**
+# `pt-online-schema-change`
 
 ---
 
@@ -85,10 +84,9 @@ _and trying to be better at relational databases_
 
 ---
 
-# The glue:
-# An ActiveRecord
-# connection adapter
-# Rails + pt-osc
+# **The glue:**
+# [fit]**An ActiveRecord**
+# [fit]**connection adapter**
 
 ---
 
@@ -104,34 +102,37 @@ _and trying to be better at relational databases_
 
 ---
 
-# OK, but show me
+# [fit]**OK, but show me**
 
 ---
 
-# ![](migration.png)
+![fit](terminal.png)
 
 ---
 
-# [fit] Breaking news!
+# [fit]**Breaking news!**
 
 ---
 
-# [fit] Breaking news!
-# [fit] There will be a rename
+# [fit]**Breaking news!**
+# [fit]**There will be a rename**
 
 ---
 
-# **departure**?
-# [fit] **some migrating animal?**
-# **_stork, caribou, etc._**
+# departure**?
+# some migrating animal?
+# _stork, caribou, etc._
 
 ---
 
-# **bird, db\_bird,**
-# **angry\_bird, paharoo?**
+# _bird, db\_bird,_
+# _angry\_bird, paharoo?_
 
 ---
 
 # **please, help us!**
 # `issues/43`
 
+---
+
+# **Q&A**

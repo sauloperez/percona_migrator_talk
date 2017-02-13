@@ -56,78 +56,86 @@ _and trying to be better at relational databases_
 
 ---
 
-# [fit] Deckset 
-# [fit] has something
-# [fit] for **_you_**…
-
+# How does it do that?
 
 ---
 
-# [fit] Here is 
-# [fit] The lowdown
+# [fit] **from the folks at Percona**
+# [fit] `pt-online-schema-change`
 
 ---
 
-# [fit] **_1_**
+# ![](new_table_with_updated_schema.png)
 
 ---
 
-# [fit] Add _**[fit]**_ 
+# ![](triggers_replicating_to_new_table.png)
 
 ---
 
-# [fit] To the start
-# [fit] of any headline
+# ![](copying_to_new_table.png)
 
 ---
 
-# [fit] _**(After the hash & before the headline)**_
-# [fit] _**Like so:**_ `# [fit] Your awesome headline`
+# ![](rename_tables.png)
 
 ---
 
-# [fit] **_2_**
+# **With**
+# dynamic copy chunks
+# replica lag monitoring
+# load monitoring
+# ...
 
 ---
 
-# [fit] Only 
-# [fit] use Headlines
-# [fit] _**Start it with a # — no Paragraphs or lists within your slide**_
+# The glue:
+# An ActiveRecord
+# connection adapter
+# Rails + pt-osc
 
 ---
 
-# [fit] If you do add something else, other than a headline…
-
-We will assume you have more to say and we ignore the [fit] text as it would be pretty weird to squish so much stuff on a slide.
+![fit](active_record.jpg)
 
 ---
 
-# [fit] **_3_**
+![fit](migrator.jpg)
 
 ---
 
-# [fit] Go forth and create:
+![fit](child_process.jpg)
 
 ---
 
-# [fit] Impact
+# OK, but show me
 
 ---
 
-# [fit] &
+# ![](migration.png)
 
 ---
 
-# [fit] Focus
+# [fit] Breaking news!
 
 ---
 
-# [fit] :heart:
+# [fit] Breaking news!
+# [fit] There will be a rename
 
+---
 
+# **departure**?
+# [fit] **some migrating animal?**
+# **_stork, caribou, etc._**
 
+---
 
+# **bird, db\_bird,**
+# **angry\_bird, paharoo?**
 
+---
 
-
+# **please, help us!**
+# `issues/43`
 

@@ -27,15 +27,20 @@ _and trying to be better at relational databases_
 
 ---
 
-# **migrations for ![](https://www.dropbox.com/s/xh4hrixqgb2hiet/rails-logo.png?raw=1) apps but with _steroids_**
+# **migrations for ![](rails-logo.png) apps but with _steroids_**
 
 ---
 
 # **respectful with the database**
 
+
 ---
 
 # by default!
+
+---
+
+# *Devs don't need to learn a new DSL*
 
 ---
 

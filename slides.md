@@ -27,11 +27,11 @@ _and trying to be better at relational databases_
 
 ---
 
-# **migrations for ![](https://www.dropbox.com/s/xh4hrixqgb2hiet/rails-logo.png?raw=1) apps with _steroids_**
+# **migrations for ![](https://www.dropbox.com/s/xh4hrixqgb2hiet/rails-logo.png?raw=1) apps but with _steroids_**
 
 ---
 
-# **migrations respectful with the database**
+# **respectful with the database**
 
 ---
 
@@ -40,6 +40,14 @@ _and trying to be better at relational databases_
 ---
 
 # [fit] _Customers_
+
+---
+
+# **Does not affect the database’s functioning**
+
+---
+
+# **~~downtime~~**
 
 ---
 

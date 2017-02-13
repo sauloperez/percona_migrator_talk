@@ -41,7 +41,7 @@ _and doing stuff with relational databases_
 
 ---
 
-# *Devs don't need to learn a new DSL*
+# *No need to learn a new DSL*
 
 ---
 

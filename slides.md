@@ -65,19 +65,15 @@ _and trying to be better at relational databases_
 
 ---
 
-# ![](new_table_with_updated_schema.png)
+![fit](migrate_table.jpg)
 
 ---
 
-# ![](triggers_replicating_to_new_table.png)
+![fit](triggers_and_copy.jpg)
 
 ---
 
-# ![](copying_to_new_table.png)
-
----
-
-# ![](rename_tables.png)
+![fit](rename.jpg)
 
 ---
 

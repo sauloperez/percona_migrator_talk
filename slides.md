@@ -121,7 +121,7 @@ _and doing stuff with relational databases_
 
 ---
 
-# departure**?
+# departure?
 # some migrating animal?
 # _stork, caribou, etc._
 

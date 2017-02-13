@@ -1,14 +1,16 @@
 
-# [fit] Percona Migrator
-# [fit] **Active Record Adapter**
-# [fit] **for online MySQL Migrations**
+# [fit] **Percona Migrator**
+# [fit] Active Record Adapter
+# [fit] for online MySQL Migrations
 
 ---
 
 **@prez\_pau**
 
 Backend developer at Redbooth
-_and trying to be better at relational databases_
+_and doing stuff with relational databases_
+
+![inline 50%](redbooth-logo.png)
 
 ---
 
@@ -131,8 +133,15 @@ _and trying to be better at relational databases_
 ---
 
 # **please, help us!**
+# [redbooth/percona_migrator](https://github.com/redbooth/percona_migrator)
 # `issues/43`
 
 ---
+
+# **Do you want to know more?**
+# [blog post](https://hackernoon.com/percona-migrator-announcement-6a32d5b7484c#.85thqscsn)
+
+---
+
 
 # **Q&A**
